@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="utf-8" standalone="no"?>
 <resources>
+	<string name="animate_route_off">Animate off</string>
+	<string name="animate_route">Animate on</string>
+
 	<string name="tip_rotation_switching">Map rotating</string>
 	<string name="tip_rotation_switching_t">You can choose how will be map rotated in  \'Main Menu\' -> \'Settings\' -> \'General Settings\' -> \'Map rotation\'.
 	\nThe choices are:
